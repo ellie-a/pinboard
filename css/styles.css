@@ -1,0 +1,21 @@
+body {
+  background-image: url('../img/cork-board.jpg');
+}
+
+#cat {
+  z-index: -1;
+  position: absolute;
+  height: 640px;
+  width: 640px;
+  left: 142px;
+  object-fit: cover;
+  top: 125px;
+}
+
+#pin {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  left: 380px;
+  top: 20px;
+}
